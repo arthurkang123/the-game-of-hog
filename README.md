@@ -6,7 +6,7 @@
 Link: https://inst.eecs.berkeley.edu/~cs61a/sp17/proj/hog/
 
 > Main Files
-> - hog.py: A starter implementation of Hog
+> - hog.py: Implementation of Hog
 > - dice.py: Functions for rolling dice
 > - hog_gui.py: A graphical user interface for Hog
 > - ucb.py: Utility functions for CS 61A
